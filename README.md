@@ -1,5 +1,5 @@
 # ai-chatbot-python-
-CLONE THE REPO AND INSTALL THE FOLLOWING MODULES
+CLONE THE REPO AND INSTALL THE FOLLOWING MODULES \n
 Install gtts- pip install gtts
 Install mysqlconnector- pip install mysql-connector-python
 Pygame- pip install pygame
